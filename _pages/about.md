@@ -15,6 +15,6 @@ I’m especially interested in applying machine learning, experimentation, and s
 News
 ======
 - June 2025 - Our paper on the effects of discomfort on students cognitive load is accepted at HFES Conference 2025
-- May 2025 - Selected at [leader of tomorrow](https://symposium.org/community/young-community/#lot) at the 54th [St. Gallen Symposium](https://symposium.org/). My [essay](https://symposium.org/wp-content/uploads/2025/04/73645568_Top-25_Nyamollo.pdf) on energy security was featured in the top 25 essays globally.
-- Jan 2024 - Started my masters in Industrial and Systems Engineering at Lamar University
+- May 2025 - Selected as [Leader of Tomorrow](https://symposium.org/community/young-community/#lot) at the 54th [St. Gallen Symposium](https://symposium.org/). My [essay](https://symposium.org/wp-content/uploads/2025/04/73645568_Top-25_Nyamollo.pdf) on energy security was featured in the top 25 essays globally.
+- Jan 2024 - Started my masters in Industrial and Systems Engineering at Lamar University.
 
